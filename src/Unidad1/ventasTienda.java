@@ -1,9 +1,5 @@
 import java.util.Scanner;
 public class ventasTienda {
-
-    private static String cont50a500;
-    private static String contMayor500;
-    private static String totalventas;
     public static void main (String[] arg) {
         try ( Scanner sc = new Scanner(System.in)) {
             int n;
